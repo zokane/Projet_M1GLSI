@@ -60,10 +60,3 @@ Créer une structure de fichier comme ci-dessous :
       - index.php : racine du site
 
 
-
-
-
-
-2 - code de connexion au back end : 
-    
-    - pseudo : admin- mot de passe : demo
